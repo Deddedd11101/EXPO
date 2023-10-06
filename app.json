@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f46e136-5dbe-4c4e-bf1c-d642d8ef4125"
+      }
+    },
+    "owner": "vostrikov"
   }
 }
